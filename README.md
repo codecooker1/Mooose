@@ -1,6 +1,9 @@
 # Mooose
 Just a humble simple mouse :p
 
+# How it works? / How to build it?
+This is based on the Bambu Lab Mouse Kit. You can just buy the kit and screw the 3D printed model in. You should be able to buy the mouse kit either from Bambu Lab website or your local authorized Bambu Lab distributor.
+
 # Model Files 
 
 .stl files are in CAD/PrintExport directory
