@@ -1,5 +1,7 @@
 # Mooose
 Just a humble simple mouse :p
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/97bfa33c-8296-45ed-882d-dfa77033ff7e" />
+
 
 # How it works? / How to build it?
 This is based on the Bambu Lab Mouse Kit. You can just buy the kit and screw the 3D printed model in. You should be able to buy the mouse kit either from Bambu Lab website or your local authorized Bambu Lab distributor.
